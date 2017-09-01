@@ -1,0 +1,12 @@
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\bin\Debug\Shopping Spree.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\bin\Debug\Shopping Spree.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\bin\Debug\Shopping Spree.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\obj\Debug\Shopping Spree.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\obj\Debug\Shopping Spree.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Shopping Spree\obj\Debug\Shopping Spree.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\bin\Debug\Shopping Spree.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\bin\Debug\Shopping Spree.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\bin\Debug\Shopping Spree.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\obj\Debug\Shopping Spree.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\obj\Debug\Shopping Spree.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Shopping Spree\obj\Debug\Shopping Spree.pdb

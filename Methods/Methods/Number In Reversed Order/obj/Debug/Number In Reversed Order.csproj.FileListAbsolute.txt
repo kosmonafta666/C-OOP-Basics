@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\bin\Debug\Number In Reversed Order.exe.config
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\bin\Debug\Number In Reversed Order.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\bin\Debug\Number In Reversed Order.pdb
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\obj\Debug\Number In Reversed Order.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\obj\Debug\Number In Reversed Order.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Number In Reversed Order\obj\Debug\Number In Reversed Order.pdb

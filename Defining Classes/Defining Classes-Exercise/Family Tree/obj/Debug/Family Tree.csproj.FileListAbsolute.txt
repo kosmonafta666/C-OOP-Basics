@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\bin\Debug\Family Tree.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\bin\Debug\Family Tree.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\bin\Debug\Family Tree.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\obj\Debug\Family Tree.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Family Tree\obj\Debug\Family Tree.pdb

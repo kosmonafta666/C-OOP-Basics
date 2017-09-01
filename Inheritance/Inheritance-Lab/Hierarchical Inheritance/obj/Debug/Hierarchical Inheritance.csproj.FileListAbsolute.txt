@@ -1,0 +1,5 @@
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.exe.config
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Hierarchical Inheritance\bin\Debug\Hierarchical Inheritance.pdb
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Hierarchical Inheritance\obj\Debug\Hierarchical Inheritance.pdb

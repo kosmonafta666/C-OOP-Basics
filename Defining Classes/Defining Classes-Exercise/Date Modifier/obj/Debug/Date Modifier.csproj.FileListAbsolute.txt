@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\bin\Debug\Date Modifier.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\bin\Debug\Date Modifier.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\bin\Debug\Date Modifier.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\obj\Debug\Date Modifier.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\obj\Debug\Date Modifier.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Date Modifier\obj\Debug\Date Modifier.pdb

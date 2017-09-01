@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\bin\Debug\EXAM-Practice.exe.config
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\bin\Debug\EXAM-Practice.exe
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\bin\Debug\EXAM-Practice.pdb
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\obj\Debug\EXAM-Practice.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\obj\Debug\EXAM-Practice.exe
+D:\SoftUNI\C# OOP Basics\EXAM-Practice\EXAM-Practice\obj\Debug\EXAM-Practice.pdb

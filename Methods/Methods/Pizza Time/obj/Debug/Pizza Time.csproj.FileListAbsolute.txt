@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\bin\Debug\Pizza Time.exe.config
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\bin\Debug\Pizza Time.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\bin\Debug\Pizza Time.pdb
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\obj\Debug\Pizza Time.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\obj\Debug\Pizza Time.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Pizza Time\obj\Debug\Pizza Time.pdb

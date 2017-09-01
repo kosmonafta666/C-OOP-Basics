@@ -1,0 +1,12 @@
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\bin\Debug\Class Box.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\bin\Debug\Class Box.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\bin\Debug\Class Box.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\Class Box.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\Class Box.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\Class Box.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\bin\Debug\Class Box.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\bin\Debug\Class Box.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\bin\Debug\Class Box.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\obj\Debug\Class Box.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\obj\Debug\Class Box.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box\obj\Debug\Class Box.pdb

@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\bin\Debug\Mordor's Cruelty Plan.exe.config
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\bin\Debug\Mordor's Cruelty Plan.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\bin\Debug\Mordor's Cruelty Plan.pdb
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\obj\Debug\Mordor's Cruelty Plan.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\obj\Debug\Mordor's Cruelty Plan.pdb
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Exercise\Mordor's Cruelty Plan\obj\Debug\Mordor's Cruelty Plan.csprojResolveAssemblyReference.cache

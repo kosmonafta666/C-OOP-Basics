@@ -1,0 +1,12 @@
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\bin\Debug\Class Box Data Validation.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\obj\Debug\Class Box Data Validation.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\obj\Debug\Class Box Data Validation.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation\Class Box Data Validation\obj\Debug\Class Box Data Validation.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\bin\Debug\Class Box Data Validation.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Exercises\Class Box Data Validation\obj\Debug\Class Box Data Validation.pdb

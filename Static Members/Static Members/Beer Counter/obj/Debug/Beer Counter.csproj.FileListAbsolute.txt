@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\bin\Debug\Beer Counter.exe.config
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\bin\Debug\Beer Counter.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\bin\Debug\Beer Counter.pdb
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\obj\Debug\Beer Counter.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\obj\Debug\Beer Counter.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Beer Counter\obj\Debug\Beer Counter.pdb

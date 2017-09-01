@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Operations", "MathOperations\Math Operations.csproj", "{1AE39003-99B6-40F7-B5B5-77F2802A3EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{29D9DD2C-CBAE-4DFF-B517-1C08D5BBB2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{BEFE4D09-5458-4A26-B2DF-EF44FAC6966E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE39003-99B6-40F7-B5B5-77F2802A3EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE39003-99B6-40F7-B5B5-77F2802A3EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE39003-99B6-40F7-B5B5-77F2802A3EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE39003-99B6-40F7-B5B5-77F2802A3EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D9DD2C-CBAE-4DFF-B517-1C08D5BBB2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D9DD2C-CBAE-4DFF-B517-1C08D5BBB2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D9DD2C-CBAE-4DFF-B517-1C08D5BBB2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D9DD2C-CBAE-4DFF-B517-1C08D5BBB2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFE4D09-5458-4A26-B2DF-EF44FAC6966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFE4D09-5458-4A26-B2DF-EF44FAC6966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFE4D09-5458-4A26-B2DF-EF44FAC6966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFE4D09-5458-4A26-B2DF-EF44FAC6966E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

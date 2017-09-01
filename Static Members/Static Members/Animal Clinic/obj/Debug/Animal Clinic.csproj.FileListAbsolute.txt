@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\bin\Debug\Animal Clinic.exe.config
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\bin\Debug\Animal Clinic.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\bin\Debug\Animal Clinic.pdb
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\obj\Debug\Animal Clinic.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\obj\Debug\Animal Clinic.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Animal Clinic\obj\Debug\Animal Clinic.pdb

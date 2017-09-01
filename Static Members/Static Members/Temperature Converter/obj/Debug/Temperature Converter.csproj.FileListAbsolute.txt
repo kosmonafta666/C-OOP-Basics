@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\bin\Debug\Temperature Converter.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\bin\Debug\Temperature Converter.pdb
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\obj\Debug\Temperature Converter.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\obj\Debug\Temperature Converter.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Temperature Converter\obj\Debug\Temperature Converter.pdb

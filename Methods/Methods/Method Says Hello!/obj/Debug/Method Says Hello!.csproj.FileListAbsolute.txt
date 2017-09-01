@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\obj\Debug\Method Says Hello!.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\bin\Debug\Method Says Hello!.exe.config
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\bin\Debug\Method Says Hello!.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\bin\Debug\Method Says Hello!.pdb
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\obj\Debug\Method Says Hello!.exe
+D:\SoftUNI\C# OOP Basics\Methods\Methods\Method Says Hello!\obj\Debug\Method Says Hello!.pdb

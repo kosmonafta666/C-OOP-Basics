@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\bin\Debug\Encapsulation-Lab.exe.config
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\bin\Debug\Encapsulation-Lab.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\bin\Debug\Encapsulation-Lab.pdb
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\obj\Debug\Encapsulation-Lab.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\obj\Debug\Encapsulation-Lab.exe
+D:\SoftUNI\C# OOP Basics\Encapsulation\Encapsulation-Lab\Encapsulation-Lab\obj\Debug\Encapsulation-Lab.pdb

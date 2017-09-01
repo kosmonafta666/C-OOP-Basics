@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\bin\Debug\Stack of Strings.exe.config
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\bin\Debug\Stack of Strings.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\bin\Debug\Stack of Strings.pdb
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\obj\Debug\Stack of Strings.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\obj\Debug\Stack of Strings.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Stack of Strings\obj\Debug\Stack of Strings.pdb

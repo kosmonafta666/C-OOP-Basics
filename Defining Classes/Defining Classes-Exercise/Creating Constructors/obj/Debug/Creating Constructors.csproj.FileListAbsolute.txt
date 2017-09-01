@@ -1,0 +1,5 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Creating Constructors\bin\Debug\Creating Constructors.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Creating Constructors\bin\Debug\Creating Constructors.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Creating Constructors\bin\Debug\Creating Constructors.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Creating Constructors\obj\Debug\Creating Constructors.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Creating Constructors\obj\Debug\Creating Constructors.pdb

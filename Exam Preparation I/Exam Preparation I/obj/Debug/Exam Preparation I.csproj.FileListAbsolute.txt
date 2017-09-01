@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.exe.config
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.exe
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\bin\Debug\Exam Preparation I.pdb
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\obj\Debug\Exam Preparation I.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\obj\Debug\Exam Preparation I.exe
+D:\SoftUNI\C# OOP Basics\Exam Preparation I\Exam Preparation I\obj\Debug\Exam Preparation I.pdb

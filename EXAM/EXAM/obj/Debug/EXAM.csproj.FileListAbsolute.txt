@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\bin\Debug\EXAM.exe.config
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\bin\Debug\EXAM.exe
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\bin\Debug\EXAM.pdb
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\obj\Debug\EXAM.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\obj\Debug\EXAM.exe
+D:\SoftUNI\C# OOP Basics\EXAM\EXAM\obj\Debug\EXAM.pdb

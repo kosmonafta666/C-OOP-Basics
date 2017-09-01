@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\bin\Debug\Speed Racing.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\bin\Debug\Speed Racing.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\bin\Debug\Speed Racing.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\obj\Debug\Speed Racing.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\obj\Debug\Speed Racing.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Speed Racing\obj\Debug\Speed Racing.pdb

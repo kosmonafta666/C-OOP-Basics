@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\bin\Debug\Raw Data.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\bin\Debug\Raw Data.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\bin\Debug\Raw Data.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\obj\Debug\Raw Data.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\obj\Debug\Raw Data.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Raw Data\obj\Debug\Raw Data.pdb

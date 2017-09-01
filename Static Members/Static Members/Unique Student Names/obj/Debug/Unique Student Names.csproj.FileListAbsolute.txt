@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\bin\Debug\Unique Student Names.exe.config
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\bin\Debug\Unique Student Names.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\bin\Debug\Unique Student Names.pdb
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\obj\Debug\Unique Student Names.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\obj\Debug\Unique Student Names.exe
+D:\SoftUNI\C# OOP Basics\Static Members\Static Members\Unique Student Names\obj\Debug\Unique Student Names.pdb

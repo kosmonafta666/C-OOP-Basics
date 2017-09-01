@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\bin\Debug\Random List.exe.config
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\bin\Debug\Random List.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\bin\Debug\Random List.pdb
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\obj\Debug\Random List.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\obj\Debug\Random List.exe
+D:\SoftUNI\C# OOP Basics\Inheritance\Inheritance-Lab\Random List\obj\Debug\Random List.pdb

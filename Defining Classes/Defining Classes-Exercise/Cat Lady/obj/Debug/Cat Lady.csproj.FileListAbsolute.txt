@@ -1,0 +1,6 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\bin\Debug\Cat Lady.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\bin\Debug\Cat Lady.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\bin\Debug\Cat Lady.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\obj\Debug\Cat Lady.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\obj\Debug\Cat Lady.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Cat Lady\obj\Debug\Cat Lady.pdb

@@ -1,0 +1,12 @@
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\bin\Debug\Define a Class Person.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\bin\Debug\Define a Class Person.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\bin\Debug\Define a Class Person.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\obj\Debug\Define a Class Person.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\obj\Debug\Define a Class Person.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes\Define a Class Person\obj\Debug\Define a Class Person.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\bin\Debug\Define a Class Person.exe.config
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\bin\Debug\Define a Class Person.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\bin\Debug\Define a Class Person.pdb
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\obj\Debug\Define a Class Person.csprojResolveAssemblyReference.cache
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\obj\Debug\Define a Class Person.exe
+D:\SoftUNI\C# OOP Basics\Defining Classes\Defining Classes-Exercise\Define a Class Person\obj\Debug\Define a Class Person.pdb
